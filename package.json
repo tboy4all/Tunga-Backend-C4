@@ -1,0 +1,17 @@
+{
+  "name": "tungabe-c4",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Taiye",
+  "license": "ISC",
+  "description": "Tunga c4 Backend JS",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  }
+}
